@@ -1,0 +1,3896 @@
+material 1_Material3
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.16078431372549 0.419607843137255 0.482352941176471
+      diffuse 0.16078431372549 0.419607843137255 0.482352941176471
+      specular 0.192941176470588 0.503529411764706 0.578823529411765 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 3.93700787401575, 1.06670583886062
+      texture_unit
+      {
+        texture 7_trunks1.jpg
+      }
+    }
+  }
+}
+material 2_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 209_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 3_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 141_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 4_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 130_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 5_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 112_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 6_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 116_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 7_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 99_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 8_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 8_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 9_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 181_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 10_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 176_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 11_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 158_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 12_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 144_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 13_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 134_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 14_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 204_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 15_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 200_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 16_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 171_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 17_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 170_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 18_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 148_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 19_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 49_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 20_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 173_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 21_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 55_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 22_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 26_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 23_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 47_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 24_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 22_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 25_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 206_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 26_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 196_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 27_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 186_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 28_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 159_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 29_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 109_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 30_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 146_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 31_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 92_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 32_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 86_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 33_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 18_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 34_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 84_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 35_Material7
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.729411764705882 0.545098039215686 0.149019607843137
+      diffuse 0.729411764705882 0.545098039215686 0.149019607843137
+      specular 0.875294117647059 0.654117647058823 0.178823529411765 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 3.93700787401575, 1.06670583886062
+      texture_unit
+      {
+        texture 2_trunks4.jpg
+      }
+    }
+  }
+}
+material 36_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 149_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 37_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 44_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 38_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 106_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 39_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 105_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 40_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 104_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 41_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 77_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 42_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 184_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 43_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 182_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 44_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 165_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 45_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 143_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 46_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 94_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 47_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 43_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 48_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 117_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 49_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 208_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 50_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 191_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 51_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 142_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 52_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 136_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 53_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 127_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 54_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 42_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 55_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 75_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 56_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 101_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 57_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 12_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 58_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 10_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 59_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 54_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 60_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 198_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 61_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 63_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 62_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 111_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 63_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 9_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 64_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 17_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 65_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 183_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 66_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 168_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 67_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 155_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 68_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 40_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 69_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 39_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 70_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 16_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 71_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 167_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 72_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 162_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 73_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 160_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 74_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 154_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 75_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 126_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 76_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 33_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 77_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 185_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 78_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 174_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 79_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 156_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 80_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 153_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 81_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 107_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 82_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 81_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 83_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 211_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 84_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 202_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 85_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 53_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 86_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 64_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 87_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 79_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 88_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 78_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 89_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 145_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 90_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 123_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 91_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 23_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 92_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 72_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 93_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 35_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 94_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 91_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 95_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 90_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 96_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 179_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 97_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 172_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 98_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 166_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 99_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 164_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 100_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 138_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 101_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 61_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 102_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 37_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 103_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 29_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 104_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 118_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 105_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 212_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 106_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 192_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 107_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 25_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 108_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 213_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 109_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 195_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 110_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 193_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 111_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 80_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 112_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 69_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 113_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 93_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 114_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 201_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 115_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 197_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 116_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 190_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 117_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 151_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 118_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 122_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 119_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 30_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 120_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 57_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 121_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 20_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 122_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 50_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 123_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 189_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 124_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 97_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 125_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 38_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 126_Material1
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.984313725490196 0.776470588235294 0.650980392156863
+      diffuse 0.984313725490196 0.776470588235294 0.650980392156863
+      specular 1.0 0.931764705882353 0.781176470588235 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 3.93700787401575, 2.14074803149606
+      texture_unit
+      {
+        texture 3_trunks2.jpg
+      }
+    }
+  }
+}
+material 127_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 21_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 128_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 115_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 129_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 85_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 130_Material8
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.298039215686275 0.298039215686275 0.298039215686275
+      diffuse 0.298039215686275 0.298039215686275 0.298039215686275
+      specular 0.357647058823529 0.357647058823529 0.357647058823529 15.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}
+material 131_Material5
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.356862745098039 0.215686274509804 0.172549019607843
+      diffuse 0.356862745098039 0.215686274509804 0.172549019607843
+      specular 0.428235294117647 0.258823529411765 0.207058823529412 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 3.93700787401575, 1.06670583886062
+      texture_unit
+      {
+        texture 4_trunks4.jpg
+      }
+    }
+  }
+}
+material 132_Material4
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.705882352941177 0.611764705882353 0.807843137254902
+      diffuse 0.705882352941177 0.611764705882353 0.807843137254902
+      specular 0.847058823529412 0.734117647058824 0.969411764705882 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 3.93700787401575, 1.06670583886062
+      texture_unit
+      {
+        texture 6_trunks4.jpg
+      }
+    }
+  }
+}
+material 133_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 210_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 134_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 60_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 135_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 96_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 136_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 59_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 137_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 95_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 138_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 52_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 139_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 15_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 140_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 188_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 141_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 36_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 142_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 51_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 143_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 41_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 144_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 120_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 145_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 119_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 146_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 34_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 147_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 24_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 148_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 32_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 149_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 128_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 150_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 28_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 151_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 113_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 152_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 87_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 153_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 98_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 154_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 13_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 155_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 152_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 156_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 140_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 157_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 135_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 158_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 124_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 159_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 73_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 160_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 58_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 161_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 76_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 162_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 214_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 163_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 207_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 164_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 205_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 165_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 175_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 166_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 169_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 167_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 161_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 168_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 157_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 169_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 71_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 170_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 70_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 171_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 103_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 172_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 102_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 173_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 66_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 174_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 215_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 175_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 74_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 176_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 31_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 177_Material2
+{
+  technique
+  {
+    pass
+    {
+      ambient 1.0 0.411764705882353 0.235294117647059
+      diffuse 1.0 0.411764705882353 0.235294117647059
+      specular 1.0 0.494117647058823 0.282352941176471 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 3.93700787401575, 1.06670583886062
+      texture_unit
+      {
+        texture 1_trunks3.jpg
+      }
+    }
+  }
+}
+material 178_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 147_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 179_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 121_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 180_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 100_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 181_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 19_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 182_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 178_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 183_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 150_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 184_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 129_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 185_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 114_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 186_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 62_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 187_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 203_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 188_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 199_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 189_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 180_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 190_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 177_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 191_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 46_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 192_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 11_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 193_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 56_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 194_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 65_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 195_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 83_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 196_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 82_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 197_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 14_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 198_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 187_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 199_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 139_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 200_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 132_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 201_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 125_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 202_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 48_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 203_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 89_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 204_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 88_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 205_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 45_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 206_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 108_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 207_Material6
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.886274509803922 0.866666666666667 0.431372549019608
+      diffuse 0.886274509803922 0.866666666666667 0.431372549019608
+      specular 1.0 1.0 0.517647058823529 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 3.93700787401575, 1.06670583886062
+      texture_unit
+      {
+        texture 5_trunks4.jpg
+      }
+    }
+  }
+}
+material 208_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 163_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 209_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 137_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 210_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 133_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 211_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 194_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 212_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 131_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 213_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 67_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 214_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 27_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 215_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 110_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material 216_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.96078431372549 0.749019607843137 0.627450980392157
+      diffuse 0.96078431372549 0.749019607843137 0.627450980392157
+      specular 1.0 0.898823529411765 0.752941176470588 15.0
+      emissive 0.0 0.0 0.0
+      // texture size: 267.949192431123, 267.949192431123
+      texture_unit
+      {
+        texture 68_Dolphin.exe_Tue_Mar_22_01-29-27_2011_19.png
+      }
+    }
+  }
+}
+material SketchupDefault
+{
+  technique
+  {
+    pass
+    {
+      ambient 0.8 0.8 0.8
+      diffuse 0.8 0.8 0.8
+      specular 0.96 0.96 0.96 15.0
+      emissive 0.0 0.0 0.0
+    }
+  }
+}

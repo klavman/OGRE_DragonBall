@@ -1,0 +1,13 @@
+material IG/Sand
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture sand.jpg
+			}
+		}
+	}
+}
